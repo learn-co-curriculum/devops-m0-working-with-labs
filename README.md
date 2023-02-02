@@ -14,7 +14,7 @@ From there, you can click the `Fork` button at the top right of the page to crea
 
 ![Fork Button](http://readme-pics.s3.amazonaws.com/fork_button.jpg)
 
-Add your name before the repository name, e.g.: `john-doe-devops-m0-working-with-labs`.
+Alternatively, you can simply click the `fork` button at the top right of this assignment page and it will begin forking the repo for you!
 
 Once you have your fork set up, go ahead and clone it in your virtual machine using `git clone <url>`.
 
