@@ -73,4 +73,4 @@ Looking good!
 
 ## Conclusion
 
-That's it for how to work with labs! Make sure to pay close attention to the lab instructions; for instance, certain files need to be named certain ways, like in this case `script.sh`.
+That's it for how to work with labs! Make sure to pay close attention to the lab instructions; for instance, certain files need to be named certain ways, like in this case `script.sh`. 
