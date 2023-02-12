@@ -1,4 +1,4 @@
-# Working with Labs
+# Working with GitHub Labs
 
 ## Introduction
 
@@ -70,6 +70,10 @@ Commit the changes, and then push it upstream. Let's view it now:
 Looking good!
 
 ![changes-2](https://curriculum-content.s3.amazonaws.com/6685/devops-m0-working-with-labs/changes-2.png)
+
+## Deliverable
+
+Once your assignment is wrapped up, all you need to submit is a link to your *GitHub* repository.
 
 ## Conclusion
 
